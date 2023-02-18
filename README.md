@@ -1,8 +1,5 @@
 # lrnr2
-lrnr but with all the things we've learned as professionals
-
-# lrnr2
-lrnr but with all the things we've learned as professionals
+lrnr but with all the things we've learned as professional
 
 # Goals for project improvements
 1. Improve implementation generally
