@@ -1,0 +1,10 @@
+spring:
+    datasource:
+        url: jdbc:postgresql://localhost:5432/postgres?currentSchema=lrnr_app
+        username: postgres
+        password: passweird
+        driverClassName: org.postgresql.Driver
+    flyway:
+        enabled: true
+        baseline-on-migrate: true
+        out-of-order: false
